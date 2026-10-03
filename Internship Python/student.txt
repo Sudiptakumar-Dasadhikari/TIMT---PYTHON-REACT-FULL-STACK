@@ -1,0 +1,3 @@
+Name: Pritam
+College: TIMT College
+Course: BCA
